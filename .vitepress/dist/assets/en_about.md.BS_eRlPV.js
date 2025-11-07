@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.BSxiluPM.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"en/about.md","filePath":"en/about.md","lastUpdated":null}'),o={name:"en/about.md"};function n(r,s,c,d,p,_){return a(),e("div")}const m=t(o,[["render",n]]);export{l as __pageData,m as default};
